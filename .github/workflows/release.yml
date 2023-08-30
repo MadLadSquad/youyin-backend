@@ -32,5 +32,5 @@ jobs:
             More on what is done this month can be found on the latest newsletter entry: https://madladsquad.com/#monthly-newsletter
           draft: false
           prerelease: false
-          files: youyin-web.tar.xz
+          files: youyin-backend.tar.xz
           generate_release_notes: false
